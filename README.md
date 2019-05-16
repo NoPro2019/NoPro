@@ -1,2 +1,2 @@
 # NoPro
-Data and code related to the "NoPro" code comment summarization project.
+Please visit https://github.com/NoPro2019/NoPro_2019 for the full repository.
